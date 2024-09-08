@@ -1,11 +1,12 @@
 /* Soft Midnight Theme */
 body {
-    background-color: #1e1e2f;
-    color: #e4e4eb;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
+    color: #333;
     margin: 0;
     padding: 0;
-    scroll-behavior: smooth;
+    overflow-x: hidden;
+    background-size: cover;
+    background-color: #121212;
 }
 
 header {
