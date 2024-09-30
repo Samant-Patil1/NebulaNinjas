@@ -47,14 +47,14 @@ section.content {
 }
 
 h2 {
-    color: #6c63ff;
+    color: darkblue;
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid darkblue;
 }
 
 h3 {
-    color: #6c63ff;
+    color: darkblue;
     margin-top: 1rem;
     margin-bottom: 0.5rem;
 }
