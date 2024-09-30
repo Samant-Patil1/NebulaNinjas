@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    background: url("bk_grnd.jpg") no-repeat center center fixed;
+    background: url("https://wallpapers.com/images/featured/galaxy-background-gixaqtvgmxz0eli2.jpg") no-repeat center center fixed;
     background-size: cover;
     background-color: #121212;
 }
@@ -24,7 +24,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5rem;
-    color: #6c63ff;
+    color: darkblue;
 }
 
 header p {
@@ -50,7 +50,7 @@ h2 {
     color: #6c63ff;
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
-    border-bottom: 2px solid #6c63ff;
+    border-bottom: 2px solid darkblue;
 }
 
 h3 {
@@ -75,7 +75,7 @@ table th, table td {
 }
 
 table th {
-    background-color: #6c63ff;
+    background-color: darkblue;
     color: #fff;
 }
 
